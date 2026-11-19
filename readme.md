@@ -12,6 +12,7 @@ student dev. been coding since i was 8. started with html, got into lua, now i j
 ## project
 
 [KyriLib](https://github.com/Justanewplayer19/KyriLib/) - roblox ui library
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Autoplayer-supports-3-games-237216)](https://scriptblox.com/script/Universal-Script-Autoplayer-supports-3-games-237216)
 
 ## activity
 
